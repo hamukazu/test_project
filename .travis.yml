@@ -6,5 +6,5 @@ python:
   - "3.5"
   - "3.5-dev"
   - "nightly"
-scrpit: pytest tests
+scrpit: py.test tests
 
